@@ -1,5 +1,6 @@
+[Python required to run the script.](https://www.python.org/downloads/)
+
 Put BackupLivingSkyrimTextures.py and texturelist.txt in the same folder as the Living Skyrim folder.
-Python required to run the script: https://www.python.org/downloads/
 
 This script is for backing up textures for the purpose of downsizing them with [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) to get better performance/less stutters in Living Skyrim. You can choose between backing up all or landscape and/or architecture textures. If the performance profile in MO2 doesn't work well enough, then downsizing these textures might help as it reduces RAM & VRAM usage. I only included 4K and larger textures in the list, but excluded some, like interface, map, and sky/cloud textures.
 
