@@ -5,6 +5,7 @@ This script is for backing up textures for the purpose of downsizing them with [
 
 How to downsize:
 In Cathedral Assets Optimizer: select the folder this script backed up > Tick all boxes under the textures tab > 2x2 ratio > Run (it takes a pretty long time to complete)
+
 Archive/zip the downsized textures to back them up.
 
 After downsizing just replace the original files with them, don't do it through Mod Organizer. If you want to revert to original Lost Legacy textures, just replace them with the files backed up by this script.
