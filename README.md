@@ -10,6 +10,6 @@ In Cathedral Assets Optimizer: select the folder this script backed up > Tick al
 
 Archive/zip the downsized textures to back them up.
 
-After downsizing just replace the original files with them, don't do it through Mod Organizer. If you want to revert to original textures, just replace them with the files backed up by this script.
+After downsizing just replace the original files with them, don't do it through Mod Organizer. If you want to revert to original textures, just replace them with the files backed up by the script.
 
 Made for Living Skyrim version 4.2.0.1
